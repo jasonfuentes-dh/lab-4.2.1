@@ -19,3 +19,11 @@ p {
     margin-left: 15px;
     background-color: lightblue;
 }
+
+.content {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
